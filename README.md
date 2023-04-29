@@ -2,7 +2,7 @@
 
 This program have been implemented and uses python 3.10.0 or newer versions to run.
 
-You will need to download sumpy if u dont have that already, that is done by having pip3 or one of the other python libraies downloaders. and then download the library called sympy so for pip3 users the command is "pip3 install sympy"
+You will need to download sympy if you dont have that already, that is done by having pip3 or one of the other python libraies downloaders. Then download the library called sympy so for pip3 users the command is "pip3 install sympy"
 
 To run the program u put "python .\Belief_revision_engine.py" in the terminal and press enter.
 
